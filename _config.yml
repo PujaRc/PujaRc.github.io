@@ -4,13 +4,12 @@
 title: Surreel
 description: Scrubbing the nicotine stain off my fingers.  # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://PujaRc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
+url: "https://pujarc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
 author-name:   Puja Roychowdhury
-author-avatar: 09.jpg
+author-avatar: puja_avatar.png
 
 
 #-------------------------------
@@ -23,7 +22,7 @@ github:    https://github.com/PujaRc
 
 #-------------------------------
 # Comment Section (Disqus)
-#disqus-identifier:  mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+# disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------

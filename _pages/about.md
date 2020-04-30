@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: amarchhobi.jpeg
+image: puja_about.png
 permalink: /about
 ---
 
